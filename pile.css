@@ -51,3 +51,14 @@ dir {
     box-shadow: 0 10px 0 -5px #be6700, 0 20px 0 -10px #66ccff, 0 30px 0 -16px #dedcb9;
     margin-bottom: 2rem;
 }
+
+.site-footer-body {
+    display: flex;
+    position: relative;
+    background-color: #66ccff;
+    color: #100;
+}
+
+a {
+    color: #100;
+}
