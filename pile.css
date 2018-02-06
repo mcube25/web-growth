@@ -52,8 +52,8 @@ dir {
     margin-bottom: 2rem;
 }
 
-.site-footer-body {
-    display: flex;
+footer {
+    display: block;
     position: relative;
     background-color: #66ccff;
     color: #100;
@@ -61,4 +61,13 @@ dir {
 
 a {
     color: #100;
+}
+span {
+    color: #66ccff;
+    font-size: 28px;
+    font-family: nova;
+    font-style: bold;
+}
+.col-sm-6 {
+    margin: 18px;
 }
